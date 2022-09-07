@@ -1,0 +1,9 @@
+1. Miksi Pandas on tarpeellinen ja mihin sitä voidaan käyttää?
+      -Pandas tekee tiedonkäsittelystä paljon helpompaa ja nopeampaa, kuin esimerkiksi perus pyton ohjelmointi.
+      
+2. Miksi Numpy on tarpeellinen ja mihin sitä voidaan käyttää?
+      -Käytetään matematiikka laskuihin, se on paljon nopeampi ja käytännöllisempi kuin perinteinen pyton ohjelmointi. Numpyn käyttö vie vähemmän muistia. 
+      
+3. Miksi Mathplotlib on tarpeellinen ja mihin sitä voidaan käyttää?
+      - Sillä voidaan esittää 2d kaaviota datan visualisointiin.
+      
